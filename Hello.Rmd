@@ -1,0 +1,19 @@
+---
+title: "First Project"
+author: "Kassim"
+date: "7/16/2020"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
+---
+
+This is a markdown file
+
+# Hello World R Markdown
+
+
+
+
+
